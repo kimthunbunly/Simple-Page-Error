@@ -41,6 +41,10 @@ body{
 	width: 15.6%; 
 	padding: 0px;
 }
+
+
+/*Form Error Page 500*/
+
 .col-2{
 	float: left; 
 	width: 68.9%; 
@@ -49,12 +53,12 @@ body{
 .col-2 img{
     width: 416px;
     height: 232px;
-    margin-left: 30.9%;
+    margin-left: 33.9%;
     margin-top: 8%;
 }
 .col-2 h1{
     font-family: Alfredo;
-    font-size: 145px;
+    font-size: 125px;
     color: #FF0000;
     text-align: center;
     padding: 0px;
@@ -68,7 +72,6 @@ body{
 }
 .col-2 p{
     font-family: arial;
-    font-size: 50px;
     font-size: 22px;
     text-align: center;
     margin-top: 9%;
@@ -88,3 +91,31 @@ body{
     font-size: 29px;
     font-family: arial;
 }	
+
+/*Form Error Page 404*/
+
+.col-3{
+	float: left; 
+	width: 68.9%; 
+	padding: 0px;
+}
+.col-3 img{
+    width: 416px;
+    height: 232px;
+    margin-left: 33.9%;
+    margin-top: 8%;
+}
+.col-3 h1{
+    font-family: Alfredo;
+    font-size: 100px;
+    color: #FF0000;
+    text-align: center;
+    padding: 0px;
+    margin: 0%;
+}
+.col-3 p{
+    font-family: arial;
+    font-size:26px;
+    text-align: center;
+    margin-top: 9%;
+}
